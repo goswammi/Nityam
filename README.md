@@ -46,5 +46,4 @@ MySQL • PostgreSQL
 
 ---
 
-## 📫 Connect With Me
-Email : nityamgoswami1234@gmail.com
+
